@@ -13,6 +13,7 @@ Quero aprender o maxímo de coisas possíveis sobre desenvolvimento mobile e tra
 ## Sites Úteis:
 
  - [Jet Brains](https://www.jetbrains.com/pt-br/)
+ - [Explain Shell](https://explainshell.com/)
  - [Stack Overflow](https://stackoverflow.com/)
  - [Small Dev Tools](https://smalldev.tools/)
  - [DEVICON](https://devicon.dev/)
