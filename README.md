@@ -19,8 +19,15 @@ Quero aprender o maxímo de coisas possíveis sobre desenvolvimento mobile e tra
  - [Badgen](https://badgen.net/)
  - [EmojiPedia](https://emojipedia.org/)
  - [Shields.io](https://shields.io/)
- - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
- - [github-readme-stats (PT-BR)](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md)
 
+## Repositórios:
+
+ - [Recursos Gratuitos](https://github.com/iuricode/recursos-gratuitos)
+ - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+ - [Recursos Hackers](https://github.com/vitalysim/Awesome-Hacking-Resources)
+ - [Idéias de Apps](https://github.com/florinpop17/app-ideas)
+ - [Livros Gratuitos](https://github.com/EbookFoundation/free-programming-books)
+ - [APIs Públicas](https://github.com/public-apis/public-apis)
+ - [Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ![Imagem com linguagens de programação mobile](Imagens/imagens-do-readme/fundo-portifolio.jpg)
